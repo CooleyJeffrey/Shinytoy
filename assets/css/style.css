@@ -8,7 +8,6 @@ header {
     padding: 1%;
     height: 100px;
     width: 100%;
-    /* Sets border to bottom only */
     border-bottom: 10px solid rgb(81, 0, 92);
     background-color: #c90c2cdc;
 }
