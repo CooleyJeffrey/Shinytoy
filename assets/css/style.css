@@ -1,5 +1,6 @@
 :root {
 
+
 }
 header {
     display: flex;
@@ -30,13 +31,8 @@ aside {
 aside {
     float: left; /* Float the aside to the left */
     margin-right: 20px; /* Add some margin to the right for spacing */
+    
 }
-.portrait img {
-    border-radius: 50%; /* Apply border-radius to create a circle */
-    width: 100px; /* Adjust the width of the circle */
-    height: 100px; /* Adjust the height of the circle */
-    object-fit: cover; /* Ensure the image covers the entire circle */
-  }
 
   
   /* Style for smaller screens */
